@@ -1,0 +1,793 @@
+Name: David Lewellyn
+
+Course: INFO 2680-061 C++ Programming 
+Instructor: Dr. Yelena Ryalova
+
+Assignemnt: Rolodex Project
+
+IDE: Xcode 11.2
+OS: macOS 10.14 Mojave
+
+
+Results: 
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+6
+
+----------------------
+
+Last:     First:
+Adams     Samual
+Occupation:
+Beer Manufacturer
+Address:
+Boston, MA
+Phone Number:
+555-2337
+
+
+----------------------
+
+Last:     First:
+Heard     Alonza
+Occupation:
+Mechanic
+Address:
+123 Anyplace Ave.
+Malden, MA
+Phone Number:
+555-5678
+
+
+----------------------
+
+Last:     First:
+Hansen    Tony
+Occupation:
+Writer
+Address:
+12 E Street
+New York, NY 33333
+Phone Number:
+555-9999
+
+
+----------------------
+
+Last:     First:
+Lupine    Alan
+Occupation:
+Vet
+Address:
+1 Bigelow Ave.
+Lawrence, MA
+Phone Number:
+555-7654
+
+
+----------------------
+
+Last:     First:
+Milton    Fred
+Occupation:
+Sales
+Address:
+12 Freedom Way
+Nashua, NH
+Phone Number:
+555-9981
+
+
+----------------------
+
+Last:     First:
+Papert    Seymour
+Occupation:
+Lego Professor
+Address:
+MIT
+Phone Number:
+555-1111
+
+
+----------------------
+
+Last:     First:
+Proverb   Jewel
+Occupation:
+Landscaper
+Address:
+34 Washington St.
+Waltham, MA
+Phone Number:
+555-3333
+
+
+----------------------
+
+Last:     First:
+Revere    Paul
+Occupation:
+Radical Revolutionary
+Address:
+45 Commonwealth Ave.
+Boston, MA
+Phone Number:
+555-1776
+
+
+----------------------
+
+Last:     First:
+Reyes     Jen
+Occupation:
+Graphic Artist
+Address:
+325 Oak Rd.
+Wilmington, MA
+Phone Number:
+555-4950
+
+
+----------------------
+
+Last:     First:
+Smyth     Jon
+Occupation:
+Computer Hardware
+Address:
+CMU Computer Services
+Pittsburg, PA
+Phone Number:
+555-1324
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+4
+
+Enter Last Name: Heard
+
+Enter First Name: Alonza
+
+----------------------
+
+Last:     First:
+Heard     Alonza
+Occupation:
+Mechanic
+Address:
+123 Anyplace Ave.
+Malden, MA
+Phone Number:
+555-5678
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+2
+
+----------------------
+
+Last:     First:
+Heard     Alonza
+Occupation:
+Mechanic
+Address:
+123 Anyplace Ave.
+Malden, MA
+Phone Number:
+555-5678
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+3
+Rolodex flipped!
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+2
+
+----------------------
+
+Last:     First:
+Hansen    Tony
+Occupation:
+Writer
+Address:
+12 E Street
+New York, NY 33333
+Phone Number:
+555-9999
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+4
+
+Enter Last Name: Smyth
+
+Enter First Name: Jon
+
+----------------------
+
+Last:     First:
+Smyth     Jon
+Occupation:
+Computer Hardware
+Address:
+CMU Computer Services
+Pittsburg, PA
+Phone Number:
+555-1324
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+5
+
+----------------------
+
+Last:     First:
+Smyth     Jon
+Occupation:
+Computer Hardware
+Address:
+CMU Computer Services
+Pittsburg, PA
+Phone Number:
+555-1324
+
+Are you sure you want to delete this entry(Y/N):
+y
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+2
+
+----------------------
+
+Last:     First:
+Adams     Samual
+Occupation:
+Beer Manufacturer
+Address:
+Boston, MA
+Phone Number:
+555-2337
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+1
+First Name: 
+Matthew
+Last Name: 
+Williams
+Occupation: 
+Teacher
+Address (Street, City/State Zip): 
+69 Main St. Acton,MA
+Phone Number: 
+555-9330
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+2
+
+----------------------
+
+Last:     First:
+Williams  Matthew
+Occupation:
+Teacher
+Address:
+69 Main St. Acton,MA
+Phone Number:
+555-9330
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+3
+Rolodex flipped!
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+2
+
+----------------------
+
+Last:     First:
+Adams     Samual
+Occupation:
+Beer Manufacturer
+Address:
+Boston, MA
+Phone Number:
+555-2337
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+5
+
+----------------------
+
+Last:     First:
+Adams     Samual
+Occupation:
+Beer Manufacturer
+Address:
+Boston, MA
+Phone Number:
+555-2337
+
+Are you sure you want to delete this entry(Y/N):
+y
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+2
+
+----------------------
+
+Last:     First:
+Heard     Alonza
+Occupation:
+Mechanic
+Address:
+123 Anyplace Ave.
+Malden, MA
+Phone Number:
+555-5678
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+1
+First Name: 
+Jim
+Last Name: 
+Butler
+Occupation: 
+Contractor
+Address (Street, City/State Zip): 
+33 Cedar Ln, Concord, MA
+Phone Number: 
+555-8535
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+2
+
+----------------------
+
+Last:     First:
+     Hansen
+Occupation:
+Tony
+Address:
+Writer
+Phone Number:
+12 E Street
+New York, NY 33333
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+2
+
+----------------------
+
+Last:     First:
+     Hansen
+Occupation:
+Tony
+Address:
+Writer
+Phone Number:
+12 E Street
+New York, NY 33333
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+4
+
+Enter Last Name: Proverb
+
+Enter First Name: Jewel
+
+----------------------
+
+Last:     First:
+Proverb   Jewel
+Occupation:
+Landscaper
+Address:
+34 Washington St.
+Waltham, MA
+Phone Number:
+555-3333
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+2
+
+----------------------
+
+Last:     First:
+Proverb   Jewel
+Occupation:
+Landscaper
+Address:
+34 Washington St.
+Waltham, MA
+Phone Number:
+555-3333
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+5
+
+----------------------
+
+Last:     First:
+Proverb   Jewel
+Occupation:
+Landscaper
+Address:
+34 Washington St.
+Waltham, MA
+Phone Number:
+555-3333
+
+Are you sure you want to delete this entry(Y/N):
+y
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+2
+
+----------------------
+
+Last:     First:
+Revere    Paul
+Occupation:
+Radical Revolutionary
+Address:
+45 Commonwealth Ave.
+Boston, MA
+Phone Number:
+555-1776
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+1
+First Name: 
+Jim
+Last Name: 
+Butler
+Occupation: 
+Consultant
+Address (Street, City/State Zip): 
+22 Minuteman St. Lexington,MA 
+Phone Number: 
+555-4422
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+1
+First Name: 
+Dan
+Last Name: 
+Butler
+Occupation: 
+Chauffeur
+Address (Street, City/State Zip): 
+68 Willow St. Westford,MA
+Phone Number: 
+555-8493
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+6
+
+----------------------
+
+Last:     First:
+Butler    Dan
+Occupation:
+Chauffeur
+Address:
+68 Willow St. Westford,MA
+Phone Number:
+555-8493
+
+
+----------------------
+
+Last:     First:
+Butler    Jim
+Occupation:
+Consultant
+Address:
+22 Minuteman St. Lexington,MA 
+Phone Number:
+555-4422
+
+
+----------------------
+
+Last:     First:
+Butler    Jim
+Occupation:
+Contractor
+Address:
+33 Cedar Ln, Concord, MA
+Phone Number:
+555-8535
+
+
+----------------------
+
+Last:     First:
+Heard     Alonza
+Occupation:
+Mechanic
+Address:
+123 Anyplace Ave.
+Malden, MA
+Phone Number:
+555-5678
+
+
+----------------------
+
+Last:     First:
+Hansen    Tony
+Occupation:
+Writer
+Address:
+12 E Street
+New York, NY 33333
+Phone Number:
+555-9999
+
+
+----------------------
+
+Last:     First:
+Lupine    Alan
+Occupation:
+Vet
+Address:
+1 Bigelow Ave.
+Lawrence, MA
+Phone Number:
+555-7654
+
+
+----------------------
+
+Last:     First:
+Milton    Fred
+Occupation:
+Sales
+Address:
+12 Freedom Way
+Nashua, NH
+Phone Number:
+555-9981
+
+
+----------------------
+
+Last:     First:
+Papert    Seymour
+Occupation:
+Lego Professor
+Address:
+MIT
+Phone Number:
+555-1111
+
+
+----------------------
+
+Last:     First:
+Revere    Paul
+Occupation:
+Radical Revolutionary
+Address:
+45 Commonwealth Ave.
+Boston, MA
+Phone Number:
+555-1776
+
+
+----------------------
+
+Last:     First:
+Reyes     Jen
+Occupation:
+Graphic Artist
+Address:
+325 Oak Rd.
+Wilmington, MA
+Phone Number:
+555-4950
+
+
+----------------------
+
+Last:     First:
+Williams  Matthew
+Occupation:
+Teacher
+Address:
+69 Main St. Acton,MA
+Phone Number:
+555-9330
+
+(1) Add Entry
+(2) View Current
+(3) Next Card
+(4) Search
+(5) Remove Card
+(6) Print Rolodex
+(7) Exit
+
+Enter your selection: 
+
